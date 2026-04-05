@@ -202,20 +202,73 @@ hospital/
 ## 📸 Screenshots
 ### Homepage
 - Hero section with call-to-action buttons
+
+<img width="1887" height="912" alt="image" src="https://github.com/user-attachments/assets/2b6f99dc-a21b-49ef-8aa3-c70c2fa9fa42" />
+
+
+ 
 - About section with hospital features
+
+
+<img width="1894" height="919" alt="image" src="https://github.com/user-attachments/assets/bec58896-02b0-4f55-b6b2-4536ba70ee3e" />
+
+
 - Services grid display
+
+
+<img width="1903" height="922" alt="image" src="https://github.com/user-attachments/assets/7a70b26b-d4c3-4989-9782-274271a743fb" />
+
+
 - Doctor profiles showcase
+
+
+<img width="1890" height="915" alt="image" src="https://github.com/user-attachments/assets/c214fa63-c402-49d7-822d-b471d0f12ffc" />
+
 - Pricing packages
-- Patient testimonials
+
+
+<img width="1895" height="798" alt="image" src="https://github.com/user-attachments/assets/d2579ab8-b131-48ed-8437-186ed0ed5d99" />
+
+- Contact us
+
+<img width="1898" height="921" alt="image" src="https://github.com/user-attachments/assets/6242ab61-f6ff-4ef7-b05d-5e794f8668ca" />
+
+<img width="1899" height="917" alt="image" src="https://github.com/user-attachments/assets/bec6a560-adcc-4fad-97b0-c382a422f00d" />
+
+<img width="1898" height="920" alt="image" src="https://github.com/user-attachments/assets/53b67371-488f-426e-8618-f122b1e58042" />
+
+- Donate
+
+
+<img width="1715" height="903" alt="image" src="https://github.com/user-attachments/assets/612044f9-f1c9-4715-959e-002c20b72bc1" />
+
+<img width="1866" height="898" alt="image" src="https://github.com/user-attachments/assets/82683e71-d14e-4d96-ac49-4104e1a44631" />
 
 ### Admin Dashboard
-- Statistics cards showing counts
-- Recent appointments table
-- Quick action buttons
+- Login
+
+<img width="1703" height="854" alt="image" src="https://github.com/user-attachments/assets/974883a2-2509-4d3f-9c25-534798a17e95" />
+
+
+- Dashboard
+
+<img width="1887" height="894" alt="image" src="https://github.com/user-attachments/assets/c26c4a0b-72fa-4149-bd9e-205aff83393d" />
+
+
 - Appointment Management
-- Filter by status (All/Pending/Approved/Declined)
-- Approve/Decline/Delete actions
+
+<img width="1891" height="892" alt="image" src="https://github.com/user-attachments/assets/20774cbd-b309-48a1-9c8d-2c52a49059ff" />
+
+
+- Doctors
+
+
+<img width="1871" height="857" alt="image" src="https://github.com/user-attachments/assets/002040c5-516c-4aec-873f-9c095ffe1624" />
+
 - Patient contact information display
+
+<img width="1871" height="894" alt="image" src="https://github.com/user-attachments/assets/0a79877f-7537-4799-9819-5bc891cdf752" />
+
 
 ## 🚀 Future Enhancements
 - Online payment integration for appointments
