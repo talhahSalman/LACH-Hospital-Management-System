@@ -295,10 +295,9 @@ hospital/
 ## 📧 Contact
  For any inquiries or support:
 
-- **Hospital Name:** Lahore Advanced Care Hospital (LACH)
-- **Location:** 126-A MM Alam Road, Lahore, Pakistan
-- **Email:** info@lach.com
-- **Phone:** +92 324 567 890
+- **Name:** Talha Salman
+- **Email:** talha.salman.work@gmail.com
+- **Phone:** +92 312 700 7906
 
 ## 📄 License
 This project is open-source and available under the MIT License.	
